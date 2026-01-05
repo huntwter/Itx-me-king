@@ -5,7 +5,7 @@
 <h1 align="center"
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=ffff&width=620&lines="H+U+N+T+W+T+E+R"></b></h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=ffffff&width=620&lines=H+U+N+T+W+T+E+R">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>
 I’m **Jatin Sharma**, a developer interested in building **AI-driven and security-aware systems**.
