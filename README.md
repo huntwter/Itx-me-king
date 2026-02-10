@@ -40,8 +40,6 @@ My focus is on **system behavior, threat patterns, and secure-by-design thinking
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Huntwter&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huntwter&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=huntwter&theme=onedark&row=2&column=3)]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -50,6 +48,7 @@ My focus is on **system behavior, threat patterns, and secure-by-design thinking
 ![](https://github-contributor-stats.vercel.app/api?username=Huntwter&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+### Visit count
 [![](https://visitcount.itsvg.in/api?id=Huntwter&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
